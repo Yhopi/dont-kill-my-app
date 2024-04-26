@@ -1,4 +1,4 @@
----
+---itel s23+
 manufacturer:
     - general
 ---
